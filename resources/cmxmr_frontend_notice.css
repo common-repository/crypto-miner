@@ -1,0 +1,22 @@
+/*
+CSS which will be enqueued if the user decides to display a frontend notice
+*/
+
+#cmxmr_announcement_popup {
+    background-color: rgba(255,255,255,.7);
+    position: fixed;
+    display: block;
+    bottom: 0px;
+    margin: 25px;
+    padding: 10px;
+    width: 600px;
+    max-width: 100%;
+    border: 3px solid rgba(0,0,0,.5);
+    z-index: 999999;
+}
+#cmxmr_announcement_popup p {
+    margin-bottom: 0;
+}
+a#closeit {
+    float: right;
+}

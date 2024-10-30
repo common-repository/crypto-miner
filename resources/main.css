@@ -1,0 +1,12 @@
+#cmxmr-admin-menu-aside {
+    float: right;
+    display: block;
+    background-color: #ECE0F8;
+    padding: 10px 25px;
+    margin: 25px;
+    border: solid 3px #8181F7;
+}
+
+.text-center {
+    text-align: center;
+}
